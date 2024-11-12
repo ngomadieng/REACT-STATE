@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.profile {
+  border: 1px solid #ddd;
+  padding: 20px;
+  width: 300px;
+  margin: 20px auto;
+  border-radius: 8px;
+  background-color: rgb(42, 107, 246);
+  color: white;
+}
+
+.profile img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
